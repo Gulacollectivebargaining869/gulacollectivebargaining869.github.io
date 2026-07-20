@@ -1,6 +1,7 @@
 ---
 title: "UWB Physical Layer Key Sharing Using the Frequency Domain CIR Magnitude"
 collection: publications
+authors: "Dutliff Boshoff, <strong>Morgana Mo Zhou</strong>, Raphael E. Nkrow, Bruno Silva, Gerhard P. Hancke"
 category: manuscripts
 permalink: /publication/2025-02-01-uwb-physical-layer-key-sharing-using-the-frequency-domain-cir-magnitude
 excerpt: "Published in IEEE Transactions on Industrial Informatics."

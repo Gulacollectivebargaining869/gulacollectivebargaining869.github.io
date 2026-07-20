@@ -1,6 +1,7 @@
 ---
 title: "Priority-Based Resource Allocation Optimization for Multi-Service LoRaWAN Harmonization in Compliance with IEEE 2668"
 collection: publications
+authors: "Yang Wei, Kim Fung Tsang, Wenyan Wang, <strong>Morgana Mo Zhou</strong>"
 category: manuscripts
 permalink: /publication/2023-02-01-priority-based-resource-allocation-optimization-for-multi-service-lorawan-harmonization-in-compliance-with-ieee-2668
 excerpt: "Published in Sensors."

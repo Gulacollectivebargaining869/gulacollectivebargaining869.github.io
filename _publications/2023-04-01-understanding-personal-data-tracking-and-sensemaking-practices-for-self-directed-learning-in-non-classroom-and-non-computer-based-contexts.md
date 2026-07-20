@@ -1,6 +1,7 @@
 ---
 title: "Understanding Personal Data Tracking and Sensemaking Practices for Self-Directed Learning in Non-classroom and Non-computer-based Contexts"
 collection: publications
+authors: "Ethan Z. Rong, <strong>Mo Morgana Zhou</strong>, Ge Gao, Zhicong Lu"
 category: conferences
 permalink: /publication/2023-04-01-understanding-personal-data-tracking-and-sensemaking-practices-for-self-directed-learning-in-non-classroom-and-non-computer-based-contexts
 excerpt: "Published in Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems."

@@ -1,6 +1,7 @@
 ---
 title: "Security Analysis and Evaluation of Denial of Service Attack in LoRaWAN-Driven Automation"
 collection: publications
+authors: "<strong>Morgana Mo Zhou</strong>, Zhifu Zhang, Yucheng Liu, Gerhard Petrus Hancke"
 category: conferences
 permalink: /publication/2024-01-01-security-analysis-and-evaluation-of-denial-of-service-attack-in-lorawan-driven-automation
 excerpt: "Long Range Wide Area Network (LoRaWAN) is a wireless communication protocol used in open Radio Frequency (RF) communication links. However, this openness also makes LoRaWAN vulnerable to Denial of Service (DoS) attacks...."

@@ -1,6 +1,7 @@
 ---
 title: "Understanding Chinese Internet Users' Perceptions of, and Online Platforms' Compliance with, the Personal Information Protection Law (PIPL)"
 collection: publications
+authors: "<strong>Morgana Mo Zhou</strong>, Zhiyan Qu, Jinhan Wan, Bo Wen, Yaxing Yao, Zhicong Lu"
 category: conferences
 permalink: /publication/2024-04-01-understanding-chinese-internet-users-perceptions-of-and-online-platforms-compliance-with-the-personal-information-protection-law-pipl
 excerpt: "The Personal Information Protection Law (PIPL) was implemented in November 2021 to safeguard the personal information rights and interests of Internet users in China. However, the impact and existing shortcomings of the..."

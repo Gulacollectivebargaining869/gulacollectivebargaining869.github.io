@@ -1,6 +1,7 @@
 ---
 title: "\"It Feels Like Being Locked in A Cage\": Understanding Blind or Low Vision Streamers' Perceptions of Content Curation Algorithms"
 collection: publications
+authors: "Ethan Z. Rong, <strong>Mo Morgana Zhou</strong>, Zhicong Lu, Mingming Fan"
 category: conferences
 permalink: /publication/2022-06-01-it-feels-like-being-locked-in-a-cage-understanding-blind-or-low-vision-streamers-perceptions-of-content-curation-algorithms
 excerpt: "Published in Designing Interactive Systems Conference."

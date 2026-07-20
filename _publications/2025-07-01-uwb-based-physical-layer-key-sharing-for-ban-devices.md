@@ -1,6 +1,7 @@
 ---
 title: "UWB-based Physical Layer Key Sharing for BAN Devices"
 collection: publications
+authors: "Dutliff Boshoff, <strong>Morgana Mo Zhou</strong>, Raphael Nkrow, Bruno Silva, Gerhard P. Hancke"
 category: conferences
 permalink: /publication/2025-07-01-uwb-based-physical-layer-key-sharing-for-ban-devices
 excerpt: "The increasing commercial viability of body area network (BAN) devices has expanded their applications beyond smartwatches and smartphones to include wearables for industrial safety, healthcare monitoring, and augmented..."

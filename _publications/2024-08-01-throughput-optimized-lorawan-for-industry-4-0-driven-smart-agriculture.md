@@ -1,6 +1,7 @@
 ---
 title: "Throughput-Optimized LoRaWAN for Industry 4.0-Driven Smart Agriculture"
 collection: publications
+authors: "Zhifu Zhang, Yucheng Liu, Gerhard Petrus Hancke, <strong>Mo Zhou</strong>"
 category: conferences
 permalink: /publication/2024-08-01-throughput-optimized-lorawan-for-industry-4-0-driven-smart-agriculture
 excerpt: "Published in 2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)."
