@@ -5,7 +5,7 @@ authors: "Hao Liu, Zhifu Zhang, <strong>Mo Zhou</strong>, Gerhard Petrus Hancke"
 category: conferences
 permalink: /publication/2025-07-01-lightweight-hybrid-post-quantum-communication-vpn-architecture-for-building-wide-iot-systems
 excerpt: "Building-Wide Virtual Private Network (VPN) systems leverage the current communication infrastructure to connect various IoT devices and management systems through encrypted tunnels. These systems are essential for..."
-date: 2025-07
+date: 2025-07-01
 venue: "2025 IEEE 23rd International Conference on Industrial Informatics (INDIN 2025)"
 paperurl: "https://doi.org/10.1109/INDIN64977.2025.11279679"
 citation: "Hao Liu, Zhifu Zhang, <strong>Mo Zhou</strong>, and Gerhard Petrus Hancke (2025). \"Lightweight Hybrid Post-Quantum Communication VPN Architecture for Building-Wide IoT Systems.\" <i>2025 IEEE 23rd International Conference on Industrial Informatics (INDIN 2025)</i>."

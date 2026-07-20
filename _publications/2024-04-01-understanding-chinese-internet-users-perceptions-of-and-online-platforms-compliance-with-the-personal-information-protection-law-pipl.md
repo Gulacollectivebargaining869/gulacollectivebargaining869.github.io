@@ -5,7 +5,7 @@ authors: "<strong>Morgana Mo Zhou</strong>, Zhiyan Qu, Jinhan Wan, Bo Wen, Yaxin
 category: conferences
 permalink: /publication/2024-04-01-understanding-chinese-internet-users-perceptions-of-and-online-platforms-compliance-with-the-personal-information-protection-law-pipl
 excerpt: "The Personal Information Protection Law (PIPL) was implemented in November 2021 to safeguard the personal information rights and interests of Internet users in China. However, the impact and existing shortcomings of the..."
-date: 2024-04
+date: 2024-04-01
 venue: "Proceedings of the ACM on Human-Computer Interaction"
 paperurl: "https://doi.org/10.1145/3637415"
 citation: "<strong>Morgana Mo Zhou</strong>, Zhiyan Qu, Jinhan Wan, Bo Wen, Yaxing Yao, and Zhicong Lu (2024). \"Understanding Chinese Internet Users' Perceptions of, and Online Platforms' Compliance with, the Personal Information Protection Law (PIPL).\" <i>Proceedings of the ACM on Human-Computer Interaction</i>. 8(CSCW1)."

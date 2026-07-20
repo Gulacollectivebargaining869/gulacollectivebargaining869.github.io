@@ -5,7 +5,7 @@ authors: "<strong>Morgana Mo Zhou</strong>, Zhifu Zhang, Yucheng Liu, Gerhard Pe
 category: conferences
 permalink: /publication/2024-01-01-security-analysis-and-evaluation-of-denial-of-service-attack-in-lorawan-driven-automation
 excerpt: "Long Range Wide Area Network (LoRaWAN) is a wireless communication protocol used in open Radio Frequency (RF) communication links. However, this openness also makes LoRaWAN vulnerable to Denial of Service (DoS) attacks...."
-date: 2024-01
+date: 2024-01-01
 venue: "Proceedings - 2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)"
 paperurl: "https://doi.org/10.1109/INDIN58382.2024.10774342"
 citation: "<strong>Morgana Mo Zhou</strong>, Zhifu Zhang, Yucheng Liu, and Gerhard Petrus Hancke (2024). \"Security Analysis and Evaluation of Denial of Service Attack in LoRaWAN-Driven Automation.\" <i>Proceedings - 2024 IEEE 22nd International Conference on Industrial Informatics (INDIN)</i>. <strong>Best Student Paper Award</strong>."

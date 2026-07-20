@@ -5,7 +5,7 @@ authors: "Zhifu Zhang, Yucheng Liu, <strong>Mo Zhou</strong>, Hualong Wu, Haoran
 category: conferences
 permalink: /publication/2025-12-01-towards-interoperability-of-low-power-wide-area-networks-using-ieee-2668
 excerpt: "Low Power Wide Area Network (LPWAN) has been one of the most widely applied wireless technologies supporting large-scale IoT applications in Industry 4.0 era. In which, 3 major LPWAN protocols play leading roles in..."
-date: 2025-12
+date: 2025-12-01
 venue: "GLOBECOM 2025 - 2025 IEEE Global Communications Conference"
 paperurl: "https://doi.org/10.1109/GLOBECOM59602.2025.11431721"
 citation: "Zhifu Zhang, Yucheng Liu, <strong>Mo Zhou</strong>, Hualong Wu, Haoran Chi, and Gerhard Hancke (2025). \"Towards Interoperability of Low Power Wide Area Networks Using IEEE 2668.\" <i>GLOBECOM 2025 - 2025 IEEE Global Communications Conference</i>. pp. 3268-3273."
