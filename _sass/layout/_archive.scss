@@ -66,6 +66,24 @@
   }
 }
 
+.archive__item-title--pub {
+  font-size: $type-size-4;
+}
+
+.archive .archive__item-title--pub a {
+  color: #000;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.archive__item-pub-meta {
+  margin: 0;
+  font-size: $type-size-5;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
