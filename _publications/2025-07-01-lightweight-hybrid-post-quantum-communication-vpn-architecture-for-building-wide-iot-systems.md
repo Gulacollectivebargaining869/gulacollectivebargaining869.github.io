@@ -1,7 +1,7 @@
 ---
 title: "Lightweight Hybrid Post-Quantum Communication VPN Architecture for Building-Wide IoT Systems"
 collection: publications
-authors: "Hao Liu, Zhifu Zhang, <strong>Mo Zhou</strong>, Gerhard Petrus Hancke"
+authors: "Hao Liu, Zhifu Zhang, <strong>Morgana Mo Zhou</strong>, Gerhard Petrus Hancke"
 category: conferences
 permalink: /publication/2025-07-01-lightweight-hybrid-post-quantum-communication-vpn-architecture-for-building-wide-iot-systems
 excerpt: "Building-Wide Virtual Private Network (VPN) systems leverage the current communication infrastructure to connect various IoT devices and management systems through encrypted tunnels. These systems are essential for..."

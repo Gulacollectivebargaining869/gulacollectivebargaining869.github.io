@@ -1,7 +1,7 @@
 ---
 title: "Optimized Traffic Scheduling in Distributed Multi-Tier Edge-Cloud Open-RAN for 5G based on Multi-Agent Deep Reinforcement Learning"
 collection: publications
-authors: "Zhifu Zhang, Yucheng Liu, Bruno Sliva, Hao Liu, <strong>Mo Zhou</strong>, Gerhard Petrus Hancke"
+authors: "Zhifu Zhang, Yucheng Liu, Bruno Sliva, Hao Liu, <strong>Morgana Mo Zhou</strong>, Gerhard Petrus Hancke"
 category: manuscripts
 permalink: /publication/2026-01-01-optimized-traffic-scheduling-in-distributed-multi-tier-edge-cloud-open-ran-for-5g-based-on-multi-agent-deep-reinforcement-learning
 excerpt: "Published in IEEE Transactions on Consumer Electronics."
