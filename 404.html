@@ -1,0 +1,40 @@
+---
+permalink: /404.html
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>404 - Page Not Found | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="{{ '/assets/img/jafeerali.jpg' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
+  <style type="text/css" media="screen">
+    .container {
+      margin: 100px auto;
+      max-width: 600px;
+      text-align: center;
+      font-family: 'Poppins', sans-serif;
+    }
+    h1 {
+      margin: 30px 0;
+      font-size: 5em;
+      line-height: 1;
+      color: #8A5843;
+    }
+    a {
+      color: #8A5843;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>404</h1>
+    <p><strong>Page not found :(</strong></p>
+    <p>The requested page could not be found.</p>
+    <p><a href="{{ '/' | prepend: site.baseurl }}">← Return to Home</a></p>
+  </div>
+</body>
+</html>

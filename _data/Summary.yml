@@ -1,0 +1,6 @@
+subject: Summary
+listing-order: 1
+icon: "/assets/img/user.svg"
+contents:
+  - title: "Profile Summary"
+    description: "Data Engineer with 11 years of experience, including 3 years in Java application development and 8 years in building scalable data pipelines and modernizing data warehouses into lakehouse architectures on AWS and Databricks. Skilled in Apache Spark, AWS, Terraform, data quality, governance, and CI/CD automation, with hands-on AI-driven development using Generative AI to accelerate pipeline delivery and enable AI-ready data platforms."

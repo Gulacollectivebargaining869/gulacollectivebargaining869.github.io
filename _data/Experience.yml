@@ -1,0 +1,23 @@
+subject: Experiences
+listing-order: 2
+icon: "/assets/img/briefcase.svg"
+contents:
+  - title: "**Comcast** — Development Engineer 4"
+    role: "**Domain**: Adserver Data Processor"
+    date: Oct. 2021 - Present
+    description:
+      - "Engineered a GitHub-backed **Agent skills registry** to centralize reusable AI capabilities, accelerating pipeline development and driving efficient AI adoption across data engineering teams."
+      - "Designed and implemented a Salesforce data catalog using **MuleSoft** and **Delta Live Tables (DLT)**, enabling streamlined data discovery and governance."
+      - "Implemented **Monte Carlo** based data quality checks and anomaly detection, reducing data incidents by 30% and enabling real-time alerts for 20+ data pipelines."
+      - "Built reusable common ETL framework and **Terraform** modules adopted by multiple teams, reducing pipeline development time by 40% through standardized CI/CD pipelines."
+      - "Designed and developed a portal for streamlined metadata management and access control across **Amazon S3** and **Unity Catalog**."
+  - title: "**Mindtree Ltd** — Senior Software Engineer"
+    date: Jul. 2015 - Oct. 2021
+    description:
+      - "**Automotive Business Intelligence**:"
+      - "Orchestrated an insight-driven automotive business intelligence system using **AWS**, improving overall reporting efficiency by 70%."
+      - "Automated the ETL process by orchestrating data pipelines using **AWS Lambda** and processed terabytes of sales data using **PySpark** in **AWS Glue**."
+      - "Developed common ETL framework in **PySpark**, thereby increasing reusability across all modules."
+      - "**IQ Recommendation Engine**:"
+      - "Developed ETL framework in **Azure Databricks** for data cleansing, data wrangling, standardization, variable generation, and feature engineering used by product recommendation system."
+      - "Performed various optimizations in **Apache Spark** by monitoring Spark UI and analyzing query execution plans, thereby increasing throughput by 20%."

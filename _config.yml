@@ -1,0 +1,35 @@
+title: "Jafeer Ali | Lead Data Engineer"
+profile_img: /assets/img/jafeerali.jpg
+icon_img: /assets/img/jafeerali.jpg
+
+name: "Jafeer Ali"
+job: "Lead Data Engineer"
+
+phone_number: "+91-8012376737"
+address: "Chennai, India"
+email: "jafeeralin@gmail.com"
+linkedin_username: "jafeerali"
+github_username: "jafeerr"
+instagram_username: "jafeerr"
+twitter_username: "itsjafeer"
+medium_username: "jafeer"
+facebook_username:
+youtube_username:
+blog_url:
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
+baseurl: ""
+url: "https://jafeerr.github.io"
+
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+  - instructions.md
+  - resume.tex
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

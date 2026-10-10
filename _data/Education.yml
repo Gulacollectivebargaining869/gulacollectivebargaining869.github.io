@@ -1,0 +1,12 @@
+subject: Education
+listing-order: 7
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: "Birla Institute of Technology and Science, Pilani"
+    degree: "M.Tech in Data Science and Engineering"
+    grade: "**CGPA**: `7.33`"
+    date: 2022 - 2024
+  - title: "Panimalar Engineering College, Affiliated to Anna University"
+    degree: "B.Tech in Information Technology"
+    grade: "**CGPA**: `7.97`"
+    date: 2011 - 2015

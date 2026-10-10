@@ -1,0 +1,52 @@
+subject: Skills
+listing-order: 5
+icon: "/assets/img/screwdriver-wrench.svg"
+contents:
+  - title: Programming Languages
+    description: "
+      ![devicon](/assets/img/skills/java.png)
+      ![devicon](/assets/img/skills/scala.png)
+      ![devicon](/assets/img/skills/python.png)
+      <br><strong>Java</strong>, <strong>Scala</strong>, <strong>Python</strong>
+    "
+  - title: Big Data & Lakehouse
+    description: "
+      ![devicon](/assets/img/skills/apachespark.png)
+      ![devicon](/assets/img/skills/databricks.png)
+      ![devicon](/assets/img/skills/snowflake.png)
+      ![devicon](/assets/img/skills/hadoop.png)
+      <br><strong>Apache Spark</strong>, <strong>Databricks</strong>, <strong>Snowflake</strong>, <strong>Hadoop</strong>
+    "
+  - title: Cloud & Platforms
+    description: "
+      ![devicon](/assets/img/skills/aws.png)
+      <br><strong>AWS</strong>: Athena, CloudWatch, DynamoDB, ECS, EMR, Glue, Lambda, S3 & StepFunctions
+    "
+  - title: Databases
+    description: "
+      ![devicon](/assets/img/skills/postgresql.png)
+      ![devicon](/assets/img/skills/oracle.png)
+      ![devicon](/assets/img/skills/microsoftsqlserver.png)
+      <br><strong>PostgreSQL</strong>, <strong>Oracle</strong>, <strong>Microsoft SQL Server</strong>
+    "
+  - title: DevOps & Automation
+    description: "
+      ![devicon](/assets/img/skills/githubactions.png)
+      ![devicon](/assets/img/skills/terraform.png)
+      ![devicon](/assets/img/skills/docker.png)
+      ![devicon](/assets/img/skills/concourse.png)
+      <br><strong>GitHub Actions</strong>, <strong>Terraform</strong>, <strong>Docker</strong>, <strong>Concourse CI</strong>
+    "
+  - title: Project Management & Collaboration
+    description: "
+      ![devicon](/assets/img/skills/jira.png)
+      ![devicon](/assets/img/skills/confluence.png)
+      ![devicon](/assets/img/skills/github.png)
+      <br><strong>Agile</strong>, <strong>JIRA</strong>, <strong>Confluence</strong>, <strong>GitHub</strong>
+    "
+  - title: Artificial Intelligence & Emerging Tech
+    description: "
+      ![devicon](/assets/img/skills/githubcopilot.png)
+      ![devicon](/assets/img/skills/opensearch.png)
+      <br><strong>GitHub Copilot</strong>, <strong>Opencode</strong>, <strong>MCP</strong> (GitHub, Confluence, JIRA & OpenSearch), <strong>Generative AI</strong>
+    "

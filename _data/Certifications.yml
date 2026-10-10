@@ -1,0 +1,12 @@
+subject: Certifications
+listing-order: 4
+icon: "/assets/img/certificate.svg"
+contents:
+  - title: "[Databricks Certified Data Engineer Professional](https://credentials.databricks.com/2fa1f07e-02b4-402d-b223-ae4b710bf14c)"
+    description:
+      - "Credential ID: [160614369](https://credentials.databricks.com/2fa1f07e-02b4-402d-b223-ae4b710bf14c)"
+      - "Issuer: Databricks"
+  - title: "[SnowPro Associate: Platform Certification](https://achieve.snowflake.com/6ccc9b0c-078e-4d99-b30d-b2fc7f1ac833#acc.j4OQDm01)"
+    description:
+      - "Credential ID: [166751984](https://achieve.snowflake.com/6ccc9b0c-078e-4d99-b30d-b2fc7f1ac833#acc.j4OQDm01)"
+      - "Issuer: Snowflake"

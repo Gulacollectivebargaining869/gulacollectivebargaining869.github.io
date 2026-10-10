@@ -1,0 +1,10 @@
+subject: Projects
+listing-order: 3
+icon: "/assets/img/clipboard-list.svg"
+contents:
+  - title: "[Spark Data Test](https://github.com/jafeerr/spark-data-test)"
+    description:
+      - "Automation testing utility to compare two Apache Spark DataFrames or datasets, generating detailed reports on matches, mismatches, and missing records."
+      - "Designed for data validation, ETL testing, and regression testing in Spark pipelines."
+      - "**Technologies**: Apache Spark, PySpark, Python, Data Validation"
+      - "[View on GitHub](https://github.com/jafeerr/spark-data-test)"
